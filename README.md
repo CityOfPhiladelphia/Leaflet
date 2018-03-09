@@ -1,4 +1,4 @@
-**Note: this is a temporary clone until [this commit](https://github.com/Leaflet/Leaflet/commit/d188cc5ede25c4f4f2bf23f95e782d32a1c2df0d) is merged into the NPM copy of Leaflet.**
+**Note: this is a temporary clone of Leaflet until [this commit](https://github.com/Leaflet/Leaflet/commit/d188cc5ede25c4f4f2bf23f95e782d32a1c2df0d) is merged into a published version on NPM. This is to support the Rollup.js version of [Mapboard](https://github.com/CityOfPhiladelphia/mapboard/).**
 
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
