@@ -1,3 +1,5 @@
+**Note: this is a temporary clone until [this commit](https://github.com/Leaflet/Leaflet/commit/d188cc5ede25c4f4f2bf23f95e782d32a1c2df0d) is merged into the NPM copy of Leaflet.**
+
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
 Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
@@ -29,4 +31,3 @@ and push the limits of what's possible with online maps!
  [contribute]: https://github.com/Leaflet/Leaflet/blob/master/CONTRIBUTING.md "A guide to contributing to Leaflet"
  [official website]: http://leafletjs.com
  [download page]: http://leafletjs.com/download.html
-
